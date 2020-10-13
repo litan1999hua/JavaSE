@@ -1,0 +1,44 @@
+package com.litan_07;
+
+import java.util.function.Function;
+
+/*
+    Interface Function<T,R>
+
+    R apply​(T t) 将此函数应用于给定的参数。
+
+    default <V> Function<T,V> andThen​(Function<? super R,? extends V> after)
+    返回一个组合函数，首先将该函数应用于其输入，然后将 after函数应用于结果。
+ */
+public class FunctionDemo {
+    public static void main(String[] args) {
+        convert("256",s -> Integer.parseInt(s));
+//        convert("256",Integer::parseInt);
+
+        convert(996,i -> String.valueOf(i + 996));
+
+        convert("996",s -> Integer.parseInt(s),i -> String.valueOf(i + 996));
+    }
+
+    //定义一个方法，把一个字符串转换为int类型，在控制台输出
+    private static void convert(String s, Function<String,Integer> fun){
+//        Integer i = fun.apply(s);
+        int i = fun.apply(s);
+        System.out.println(i);
+    }
+
+    //定义一个方法，把一个int类型的数据加上一个整数之后，转为字符串在控制台输出
+    private static void convert(int i,Function<Integer,String> fun){
+        String s = fun.apply(i);
+        System.out.println(s);
+    }
+
+    //定义一个方法，把一个字符串转换为int类型后再加上一个整数，转换为字符串在控制台输出
+    private static void convert(String s,Function<String,Integer> fun1,Function<Integer,String> fun2){
+//        int i = fun1.apply(s);
+//        String str = fun2.apply(i);
+//        System.out.println(str);
+        String ss = fun1.andThen(fun2).apply(s);
+        System.out.println(ss);
+    }
+}

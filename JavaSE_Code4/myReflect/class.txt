@@ -1,0 +1,2 @@
+className=com.litan_06.Teacher
+methodName=teach

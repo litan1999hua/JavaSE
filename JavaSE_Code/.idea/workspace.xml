@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22d01320-a96d-4d51-bc93-072b1898bcc2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaSE_Code" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="yet_unknown" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>````</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\javazuoye\JavaSE_Code\myMethod\src\com\litan</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1hEB4MOR7QD1sS4UJZqR3u5hdD0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590204893025" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myDataStructuresAndAlgorithms" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.com.litan_03" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javazuoye\JavaSE_Code\myClass\src\com\litan_08" />
+      <recent name="E:\javazuoye\JavaSE_Code\myClass\src\com\litan_07" />
+      <recent name="E:\javazuoye\JavaSE_Code\myClass\src\com\litan_04" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StudentManager (1)">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_01.ArrayDemo" />
+      <module name="myArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderDemo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_02.StringBuilderDemo01" />
+      <module name="myStringBuilder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_01.StringBuilderDemo01" />
+      <module name="myStringBuilder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManager (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.StudentManager" />
+      <module name="studentManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan.StudentManager" />
+      <module name="studentManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StudentManager" />
+      <item itemvalue="Application.StudentManager (1)" />
+      <item itemvalue="Application.StringBuilderDemo01" />
+      <item itemvalue="Application.ArrayDemo" />
+      <item itemvalue="Application.StringBuilderDemo01 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentManager (1)" />
+        <item itemvalue="Application.StringBuilderDemo01 (1)" />
+        <item itemvalue="Application.StringBuilderDemo01" />
+        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.StudentManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d01320-a96d-4d51-bc93-072b1898bcc2" name="Default Changelist" comment="" />
+      <created>1587697154146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587697154146</updated>
+      <workItem from="1599566180933" duration="82000" />
+      <workItem from="1599637028153" duration="19000" />
+      <workItem from="1599803476700" duration="272000" />
+      <workItem from="1599803931110" duration="136000" />
+      <workItem from="1599804103849" duration="47000" />
+      <workItem from="1599804498747" duration="139000" />
+      <workItem from="1599804658537" duration="64000" />
+      <workItem from="1599804741261" duration="8000" />
+      <workItem from="1599903539834" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Debug/src/com/litan/DebugTest02.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5875acf-4012-479a-bcef-e3c53150904f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaSE_Code4$CopyFoldersDemo.ic" NAME="CopyFoldersDemo Coverage Results" MODIFIED="1591106920661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.litan_08.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaSE_Code4$CopyFoldersDemo__1_.ic" NAME="CopyFoldersDemo (1) Coverage Results" MODIFIED="1591111291872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.litan_09.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gVISaKfkQWuwRhm0SSmtz24ZyE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591702565952" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project/y2gwfn/miaosha_7" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javazuoye\JavaSE_Code4\myNet\src\com\litan_10" />
+      <recent name="E:\javazuoye\JavaSE_Code4\myNet\src\com\litan_09" />
+      <recent name="E:\javazuoye\JavaSE_Code4\myNet" />
+      <recent name="E:\javazuoye\JavaSE_Code4\myNet\src\com\litan_08" />
+      <recent name="E:\javazuoye\JavaSE_Code4\myNet\src\com\litan_07" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.litan_05" />
+      <recent name="com.litan_09" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.litan_10" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.InetAddressDemo">
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_10.ClientDemo" />
+      <module name="myNet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InetAddressDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_01.InetAddressDemo" />
+      <module name="myNet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_02.ReceiveDemo" />
+      <module name="myNet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_02.SendDemo" />
+      <module name="myNet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litan_10.ServerDemo" />
+      <module name="myNet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litan_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InetAddressDemo" />
+      <item itemvalue="Application.SendDemo" />
+      <item itemvalue="Application.ReceiveDemo" />
+      <item itemvalue="Application.ServerDemo" />
+      <item itemvalue="Application.ClientDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InetAddressDemo" />
+        <item itemvalue="Application.ClientDemo" />
+        <item itemvalue="Application.ServerDemo" />
+        <item itemvalue="Application.SendDemo" />
+        <item itemvalue="Application.ReceiveDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5875acf-4012-479a-bcef-e3c53150904f" name="Default Changelist" comment="" />
+      <created>1590577251006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590577251006</updated>
+      <workItem from="1598193336749" duration="607000" />
+      <workItem from="1598255831954" duration="675000" />
+      <workItem from="1598521063449" duration="14000" />
+      <workItem from="1598761143829" duration="2034000" />
+      <workItem from="1599410352796" duration="27000" />
+      <workItem from="1599637056752" duration="1802000" />
+      <workItem from="1600427777044" duration="16000" />
+      <workItem from="1600428159705" duration="531000" />
+      <workItem from="1601195799232" duration="7000" />
+      <workItem from="1601195840584" duration="14083000" />
+      <workItem from="1601453706642" duration="4418000" />
+      <workItem from="1601469878723" duration="605000" />
+      <workItem from="1601529698143" duration="478000" />
+      <workItem from="1601531645062" duration="1196000" />
+      <workItem from="1601703052658" duration="2211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myCharStream/src/com/litan_08/CopyFoldersDemo.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myCharStream/src/com/litan_08/CopyFoldersDemo.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myThread/src/com/litan_13/CallableDemo.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
